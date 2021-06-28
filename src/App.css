@@ -34,7 +34,7 @@ input[type="text"] {
     height: 75px;
     width: 248px;
     background-color: #161616;
-    border: 0px;
+    border: 0;
     color: #ffffff;
     text-align: right;
     font-size: 25px;
